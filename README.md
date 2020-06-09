@@ -1,1 +1,1 @@
-Simple dog picture generator based of Fetch API
+Simple dog picture generator based of Dog API
